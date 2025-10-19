@@ -56,7 +56,7 @@ wifi-password-viewer/
 
 Clone the repository:
 
-git clone https://github.com/yourusername/wifi-password-viewer.git
+git clone https://github.com/Mobina14/wifi-password-viewer.git
 cd wifi-password-viewer
 
 
